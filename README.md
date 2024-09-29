@@ -43,6 +43,7 @@ Small Demo Video: https://drive.google.com/file/d/1t0qBrEbFy9vrjPC44O9LyqEaUxNzh
    - The platform supports various image formats (JPEG, PNG, etc.) and adjusts for differences in lighting, angles, and accessories (such as hats or glasses) to maintain high accuracy in facial recognition.
 
 ---
+![WhatsApp Image 2024-09-29 at 08 14 47_a1eae811](https://github.com/user-attachments/assets/319c3ebe-b77b-4a32-b7f8-a71338f59ec1)
 
 ## Project Structure
 
