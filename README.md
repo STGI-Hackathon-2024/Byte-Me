@@ -7,7 +7,7 @@ The **User KYC (Know Your Customer) Verification Platform** is designed to provi
 ![image](https://github.com/user-attachments/assets/7fd3f1e6-da05-49fb-ba34-fcc9ae9ea0c2)
 
 ---
-Small Demo Video: https://drive.google.com/file/d/1t0qBrEbFy9vrjPC44O9LyqEaUxNzhejR/view?usp=sharing
+Small Demo Video: [https://drive.google.com/file/d/1t0qBrEbFy9vrjPC44O9LyqEaUxNzhejR/view?usp=sharing](https://drive.google.com/drive/folders/1FbeYyoP0q3FHdAoJXuk1plkn-_e1hCSz?usp=sharing)
 
 ## Key Features
 
