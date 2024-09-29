@@ -4,6 +4,8 @@
 
 The **User KYC (Know Your Customer) Verification Platform** is designed to provide a comprehensive and efficient solution for user verification through advanced image recognition techniques. The platform captures a live image of the user, verifies it against an uploaded ID document, and compares a second image against a large database of stored images. It incorporates advanced algorithms for facial recognition, liveness detection, and large-scale image comparisons while maintaining high scalability and performance.
 
+![image](https://github.com/user-attachments/assets/508a5895-ad3d-4b39-a2a1-9f6a80b8040e)
+
 ---
 Small Demo Video: https://drive.google.com/file/d/1t0qBrEbFy9vrjPC44O9LyqEaUxNzhejR/view?usp=sharing
 
@@ -154,6 +156,7 @@ The platform consists of the following key components:
 ---
 
 ## Performance and Time Estimation
+![Uploading image.png…]()
 
 ### Liveness Detection:
 - Current performance allows for **real-time checks** with blink detection, head movement, and gesture prompts, ensuring a **response time of ~0.5 to 1 second**.
@@ -166,7 +169,5 @@ The platform consists of the following key components:
 
 ---
 
-## Conclusion
 
-The **User KYC Verification Platform** is a powerful and scalable solution for identity verification through facial recognition. By combining **liveness detection**, **document verification**, and **database image comparisons**, the platform ensures robust security while maintaining performance. The integration of advanced algorithms, such as **DeepFace** and **Elasticsearch**, allows for efficient and reliable user verification in real time, making it a cutting-edge solution for KYC compliance.
 
