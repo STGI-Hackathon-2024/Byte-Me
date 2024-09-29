@@ -4,7 +4,7 @@
 
 The **User KYC (Know Your Customer) Verification Platform** is designed to provide a comprehensive and efficient solution for user verification through advanced image recognition techniques. The platform captures a live image of the user, verifies it against an uploaded ID document, and compares a second image against a large database of stored images. It incorporates advanced algorithms for facial recognition, liveness detection, and large-scale image comparisons while maintaining high scalability and performance.
 
-![image](https://github.com/user-attachments/assets/508a5895-ad3d-4b39-a2a1-9f6a80b8040e)
+![image](https://github.com/user-attachments/assets/7fd3f1e6-da05-49fb-ba34-fcc9ae9ea0c2)
 
 ---
 Small Demo Video: https://drive.google.com/file/d/1t0qBrEbFy9vrjPC44O9LyqEaUxNzhejR/view?usp=sharing
